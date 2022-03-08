@@ -4,4 +4,4 @@ When creating detailed changelog entries on [releases.1password.com](https://rel
 
 This Raycast extension parses the selected text in the active application to find the GitLab reference and then opens the page in your default browser.
 
-![GitLab references enbedded within the 1Password changelog on releases.1password.com](gitlab-references-in-changelog.png)
+![GitLab references enbedded within the 1Password changelog on releases.1password.com](/images/gitlab-references-in-changelog.png)
